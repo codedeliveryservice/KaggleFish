@@ -1,0 +1,15 @@
+*.o
+.depend
+*.exe
+*.out
+*.gcda
+*.profraw
+*.s
+*.nnue
+*.txt
+*.swp
+cfish*
+*.tar.gz
+TODO
+src/main.py*
+*.xz
