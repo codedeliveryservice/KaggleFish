@@ -1,3 +1,9 @@
+# KaggleFish
+
+Final submissions to [Kaggle Competition](https://www.kaggle.com/competitions/fide-google-efficiency-chess-ai-challenge/leaderboard) 
+
+-------------------------------------------
+
 # Cfish
 This is a C port of Stockfish.
 
